@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヴァンパイアロンリーナイト",
+  "base_artist": "ミソラドエジソン",
+  "createdAt": "2026-02-23T07:28:59.013094Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヴァンパイアロンリーナイト",
+      "artist": "ミソラドエジソン",
+      "has_synced": false,
+      "path": "select/pl_01_ヴァンパイアロンリーナイト_ミソラドエジソン.txt"
+    }
+  ]
+}
